@@ -1,16 +1,24 @@
-## Hi there 👋
+# Felix Steinmann
+**Rechtsanwalt (IT-/IP-Recht) & Software-Engineer** — OSS-Governance · Embedded & SaaS · Legal-Tech
 
-<!--
-**bddkalle/bddkalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 LinkedIn: https://linkedin.com/in/felix-steinmann 
+✉️ E-Mail: felix.schnorr@mailbox.org  
+🐙 GitHub: https://github.com/bddkalle
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aktuelle Highlights
+- **Masterarbeit:** „Rechtliche Fallstricke des Einsatzes von OSS in Embedded Systems sowie bei SaaS“ — Abstract & PDF im Repo `masterarbeit-oss`.    
+- **Embedded POC:** Raspberry-Pi-Prototyp (Repo `embedded-poc`).
+
+---
+
+## Gepinnte Projekte
+- `masterarbeit-oss` — Abstract + Key Findings (PDF).    
+- `embedded-poc` — Raspberry Pi Prototyp: Setup & Demo.  
+- `pipex` — POSIX / FD-Management (Beispielprojekt).  
+
+---
+
+## Kurz zu mir
+Ich verbinde juristische Expertise (IT/IP) mit praktischer Software-Entwicklung (C/C++, POSIX, CI/CD-Basics). Schwerpunkt: OSS-Compliance, Deployment-Governance und die rechtskonforme Operationalisierung von Open-Source-Software in Embedded- und Cloud-Kontexten.
