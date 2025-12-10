@@ -9,14 +9,15 @@
 
 ## Aktuelle Highlights
 - **Masterarbeit:** „Rechtliche Fallstricke des Einsatzes von OSS in Embedded Systems sowie bei SaaS“ — Abstract & PDF im Repo `masterarbeit-oss`.    
-- **Embedded POC:** Raspberry-Pi-Prototyp (Repo `embedded-poc`).
+- **cub3D** Raycasting-basierte 2.5D-Engine in C: Grundlagen der 3D-Darstellung, Kollisions- und Input-Verarbeitung, Textur-Mapping und Performance-Optimierung (work in progress).
 
 ---
 
 ## Gepinnte Projekte
 - `masterarbeit-oss` — Abstract + Key Findings (PDF).    
-- `embedded-poc` — Raspberry Pi Prototyp: Setup & Demo.  
-- `pipex` — POSIX / FD-Management (Beispielprojekt).  
+- `minishell` — vereinfachte Shell-Implementation nach POSIX-Prinzipien.
+- `RVPCWorkshop` — learn to solder, flash and code on open hardware.
+- `Raspberry-Pi-Self-Defence-Class` — explore Open Canary and Pi Hole for awareness, manangement and protection of LANs.  
 
 ---
 
