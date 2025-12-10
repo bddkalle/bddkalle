@@ -1,7 +1,7 @@
 # Felix Steinmann
 **Rechtsanwalt (IT-/IP-Recht) & Software-Engineer** — OSS-Governance · Embedded & SaaS · Legal-Tech
 
-🔗 LinkedIn: https://linkedin.com/in/felix-steinmann 
+🔗 LinkedIn: https://linkedin.com/in/felix-steinmann  
 ✉️ E-Mail: felix.schnorr@mailbox.org  
 🐙 GitHub: https://github.com/bddkalle
 
